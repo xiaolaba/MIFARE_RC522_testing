@@ -14,7 +14,7 @@ D13 - SCK
 
 ![xiaolaba_MIFARE_RC522_testing.jpg](xiaolaba_MIFARE_RC522_testing.jpg)  
   
-Output
+Output  
 ![xiaolaba_MIFARE_RC522_testing_output.jpg](xiaolaba_MIFARE_RC522_testing_output.jpg)
 
 source code, ![RC522test.ino](RC522test.ino)  
