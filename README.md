@@ -1,6 +1,10 @@
 # MIFARE_RC522_testing
 MIFARE RC522 testing  
 
+REF: https://swf.com.tw/?p=930
+
+MIFARE NXP datasheet, ![AN10833.pdf](AN10833.pdf)  
+
 Arduino IDE 1.8.9  
 import & install library for RC522
 
