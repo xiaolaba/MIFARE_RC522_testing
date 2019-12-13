@@ -20,7 +20,7 @@ https://swf.com.tw/?p=930
   
   
 
-## **hardware setup  
+## hardware setup  
   
 Arduino Nano pin# <-> RC522 pin#
 
