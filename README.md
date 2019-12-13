@@ -13,9 +13,12 @@ REF: https://swf.com.tw/?p=930
 ![xiaolaba_MIFARE_RC522_testing_add_library.jpg](xiaolaba_MIFARE_RC522_testing_add_library.jpg)  
 
 ![xiaolaba_MIFARE_RC522_testing_install_library.jpg](xiaolaba_MIFARE_RC522_testing_install_library.jpg)
-
   
-hardware setup  
+    
+  
+  
+
+**hardware setup**  
   
 Arduino Nano pin# <-> RC522 pin#
 
@@ -29,9 +32,10 @@ D13 - SCK
 
 ![xiaolaba_MIFARE_RC522_testing.jpg](xiaolaba_MIFARE_RC522_testing.jpg)  
   
-Output  
+**Output**  
 ![xiaolaba_MIFARE_RC522_testing_output.jpg](xiaolaba_MIFARE_RC522_testing_output.jpg)
 
-source code, ![RC522test.ino](RC522test.ino)  
+**source code**,  
+![RC522test.ino](RC522test.ino)  
 pre-build hex also included.
 
