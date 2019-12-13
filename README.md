@@ -2,7 +2,7 @@
 MIFARE RC522 testing  
   
     
-###REF:
+## REF:
 https://swf.com.tw/?p=930
 
 [AN10833_MIFARE_Type_Identification_Procedure_Rev3.6_11_July_2016.pdf](AN10833_MIFARE_Type_Identification_Procedure_Rev3.6_11_July_2016.pdf)  
@@ -10,7 +10,7 @@ https://swf.com.tw/?p=930
 ![MFRC522_Standard_performance_MIFARE_and_NTAG_frontend_Rev3.9_27_April_2016.pdf](MFRC522_Standard_performance_MIFARE_and_NTAG_frontend_Rev3.9_27_April_2016.pdf)  
   
   
-###Arduino IDE 1.8.9, import & install library for RC522
+## Arduino IDE 1.8.9, import & install library for RC522
 
 ![xiaolaba_MIFARE_RC522_testing_add_library.jpg](xiaolaba_MIFARE_RC522_testing_add_library.jpg)  
 
@@ -20,7 +20,7 @@ https://swf.com.tw/?p=930
   
   
 
-###**hardware setup  
+## **hardware setup  
   
 Arduino Nano pin# <-> RC522 pin#
 
@@ -36,10 +36,10 @@ D13 - SCK
   
   
     
-###Output  
+## Output  
 ![xiaolaba_MIFARE_RC522_testing_output.jpg](xiaolaba_MIFARE_RC522_testing_output.jpg)
 
-###source code  
+## source code  
 ![RC522test.ino](RC522test.ino)  
 pre-build hex also included.
 
